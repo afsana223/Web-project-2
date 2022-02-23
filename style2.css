@@ -1,0 +1,196 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.maindiv{
+    width:1200px;
+    margin: 0px auto;
+}
+
+.one{
+    width:1200px;
+    height:50px;
+    background-color: black;
+}
+
+.two{
+    width:1200px;
+    height:100px;
+    background-color:#4A62A0;
+
+    
+}
+
+.three > h2{
+    color: white;
+margin-left: 200px;
+/* margin-top: 60px; */
+font-size: 40px;
+padding-top: 40px;
+font-family: arial;
+float: left;
+    
+}
+.three h2 a{
+    color: white;
+}
+
+label{
+    color: white;
+  
+}
+
+.from1{
+    float: left;
+    margin-left: 400px;
+    /* margin-bottom:40px; */
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.from2{
+    float: left;
+    margin-top: 40px;
+}
+span{
+    color: #ddd;
+}
+
+button{
+    padding: 2px 5px;
+    margin-top: 55px;
+    margin-left: 10px;
+    border: 1px solid rgb(65, 65, 241);
+    background-color:#7a96dd;
+    color: white;
+    font-weight: bold;
+cursor: pointer;
+    
+}
+button a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.four{
+    width: 1200px;
+    height: 700px;
+    background-color:#E7EAF1;
+    margin: 0px auto;
+    margin-top:0px;
+
+}
+
+.foot{
+    width: 1200px;
+    height: 50px;
+    background-color: black;
+}
+
+.four1{
+    width: 700px;
+    height: 700px;
+    float: left;
+    
+}
+
+.four1 > h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: #425A86;
+}
+
+
+.four2{
+    width: 500px;
+    height: 700px;
+    float: left;
+    /* background-color: thistle; */
+}
+
+.four2 > h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.four2 > h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+
+}
+
+form{
+    margin-top: 10px;
+}
+.name{
+    padding: 10px;
+border-radius: 5px;
+font-size: 17px;
+font-family: Arial, Helvetica, sans-serif;
+border: 1px solid black;
+}
+.email{
+    padding: 14px 115px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;}
+
+    label{
+        color: black;
+        font-weight: bold;
+        
+    }
+    .birt{
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+
+    .p{
+       
+         font-family:  Arial, Helvetica, sans-serif;
+        font-size:12px;
+      }
+
+        .s{
+            color:#4A62A0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .rad{
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        mark{
+            background-color:#E7EAF1;
+            color:#5d88ee;
+        }
+
+        
+        .sing{
+            margin-top: -30px;
+            padding: 10px 50px;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: rgb(29, 138, 29);
+            border: 1px solid white;
+
+        }
+.sing > a{
+
+    color: white;
+    
+}
+        .pa{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 40px;
+        }
+
+        a{
+            text-decoration: none;
+        }
